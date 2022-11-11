@@ -1,8 +1,8 @@
-### Welcome to my Github!
+# Welcome to my Github!
 
-I am a front end React developer! 
+## I am a front end React developer! 
 
-For work enquiries please email brentonjamespedler@gmail.com 
+### For work enquiries please email brentonjamespedler@gmail.com 
 
 <!--
 **BrentonPedler/BrentonPedler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
