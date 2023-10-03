@@ -1,6 +1,6 @@
 # Welcome to my Github!
 
-## I am a front end React developer! 
+## I am a Web Developer! 
 
 ### For work enquiries please email brentonjamespedler@gmail.com 
 
